@@ -7,7 +7,7 @@ diff = num2-num1
 end
 
 def division(num1, num2)
-div =
+div = num2/num1
 end
 
 def multiplication(num1, num2)
