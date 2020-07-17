@@ -3,7 +3,7 @@ sum = num2+num1
 end
 
 def subtraction(num1, num2)
-diff = num2-num1
+diff = num1-num2
 end
 
 def division(num1, num2)
