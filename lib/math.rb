@@ -19,7 +19,6 @@ remainder = num1%num2
 end
 
 def square_root(num)
-#Math.sqrt(num)
-sqrt = num**0.5
+sqrt = num**0.5 #Math.sqrt(num)
 sqrt.to_i
 end
